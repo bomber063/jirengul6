@@ -1,0 +1,1 @@
+export PATH="/d/jirengu/l6讲义/:$PATH"
